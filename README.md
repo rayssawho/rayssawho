@@ -3,7 +3,7 @@
  - :hearts: Technology lover 
  - :bar_chart: I'm currently learning Data Engineering
  - :books: Studying Internet Systems Development
- - :mortar_board: Bachelor of Communication in Digital Media
+ - :mortar_board: Degree in Communication in Digital Media
  - :blush: Pronouns: She/Her
   
 ## 
