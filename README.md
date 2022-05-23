@@ -1,7 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width="60"> Hi, I'm Rayssa! 
 
  - :hearts: Technology lover 
- - :bar_chart: I'm currently learning Data Engineering
+ - :bar_chart: I'm currently learning Data Engineering and Quality Assurance (QA)
  - :books: Studying Internet Systems Development
  - :mortar_board: Degree in Communication in Digital Media
  - :blush: Pronouns: She/Her
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/rayssawho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rayssawho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rayssawho&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssawho&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
