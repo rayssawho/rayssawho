@@ -26,7 +26,7 @@
   <img align="center" alt="pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="spark" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
   
-  <img align="right" alt="grogu" height="250" style="border-radius:50px;" src="https://media0.giphy.com/media/wCDW0yf9gf77c9vIVZ/giphy.gif?cid=790b7611710f7e47de0198c6d3a8e44b869d2186f288e3ac&rid=giphy.gif&ct=s">
+  
 </div>
 
 </div>
@@ -41,4 +41,6 @@
  <a href="https://www.linkedin.com/in/rayssarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+<img align="right" alt="grogu" height="250" style="border-radius:50px;" src="https://media0.giphy.com/media/wCDW0yf9gf77c9vIVZ/giphy.gif?cid=790b7611710f7e47de0198c6d3a8e44b869d2186f288e3ac&rid=giphy.gif&ct=s">
 
