@@ -1,8 +1,9 @@
 ### <img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width="60"> Hi, I'm Rayssa! 
 
  - :hearts: Technology lover 
- - :bar_chart: I'm currently learning Data Engineering and Quality Assurance (QA)
- - :books: Studying Internet Systems Development
+ - :bar_chart: I'm currently a Data Engineer at Raízen
+ - :mortar_board: MBA in Data Engineering and Science
+ - :mortar_board: Degree in Internet Systems Development
  - :mortar_board: Degree in Communication in Digital Media
  - :blush: Pronouns: She/Her
   
@@ -16,27 +17,28 @@
 
 ## 
                                                                              
-<div align="left"style="display: inline_block"><br>
-  <img align="center" alt="python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="cassandra" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png">
-  <img align="center" alt="pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="spark" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
-  
-  
+<div align="left" style="display: inline_block">
+  <img align="center" alt="python" height="40" width="40" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="pandas" height="40" width="80" src="https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b1f8e7ea8ce6c88ccb_Pandas-logo.webp">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="spark" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="airflow" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="databricks" height="40" width="75" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="azure" height="20" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="postgresql" height="40" width="75" src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="mysql" height="40" width="70" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="sqlserver" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 </div>
+
+
+
 
 </div>
   
 ## 
   
  <div align="left"> 
-  
- <a href="https://twitter.com/rayssawho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/rayssarte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
  <a href = "mailto:rayssarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/rayssarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
