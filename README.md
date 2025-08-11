@@ -1,7 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width="60"> Hi, I'm Rayssa! 
 
  - :hearts: Technology lover 
- - :bar_chart: I'm currently a Data Engineer at Raízen
+ - :bar_chart: I'm currently a Data Engineer at PicPay 
  - :mortar_board: MBA in Data Engineering and Science
  - :mortar_board: Degree in Internet Systems Development
  - :mortar_board: Degree in Communication in Digital Media
